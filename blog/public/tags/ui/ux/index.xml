@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>UI/UX on Blog của Hoàng Anh</title>
+    <link>http://localhost:1313/tags/ui/ux/</link>
+    <description>Recent content in UI/UX on Blog của Hoàng Anh</description>
+    <generator>Hugo -- 0.153.2</generator>
+    <language>vi-vn</language>
+    <lastBuildDate>Wed, 12 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ui/ux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Làm Chủ DOM: Biến Website Trở Nên Sống Động</title>
+      <link>http://localhost:1313/posts/javascript-dom/</link>
+      <pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/javascript-dom/</guid>
+      <description>Học cách dùng JavaScript để thêm, sửa, xóa phần tử HTML, bắt sự kiện click, và tạo ra các hiệu ứng tương tác mượt mà.</description>
+    </item>
+  </channel>
+</rss>

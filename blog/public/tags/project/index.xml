@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Project on Blog của Hoàng Anh</title>
+    <link>http://localhost:1313/tags/project/</link>
+    <description>Recent content in Project on Blog của Hoàng Anh</description>
+    <generator>Hugo -- 0.153.2</generator>
+    <language>vi-vn</language>
+    <lastBuildDate>Tue, 25 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chủ đề 9: Ứng dụng thực tế - Xây dựng Chat System</title>
+      <link>http://localhost:1313/posts/post-9-chat-app-project/</link>
+      <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/post-9-chat-app-project/</guid>
+      <description>Tổng hợp kiến thức: Xây dựng một ứng dụng Chat Real-time hoàn chỉnh. Backend Spring Boot/Node.js &#43; Frontend JavaScript thuần.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Java 11 on Blog của Hoàng Anh</title>
+    <link>http://localhost:1313/tags/java-11/</link>
+    <description>Recent content in Java 11 on Blog của Hoàng Anh</description>
+    <generator>Hugo -- 0.153.2</generator>
+    <language>vi-vn</language>
+    <lastBuildDate>Mon, 03 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/java-11/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gọi API Siêu Tốc Với Java 11 HTTP Client</title>
+      <link>http://localhost:1313/posts/java-http-client/</link>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/java-http-client/</guid>
+      <description>Quên HttpURLConnection cũ kỹ đi. Khám phá `java.net.http.HttpClient` hiện đại: Hỗ trợ HTTP/2, WebSocket và Asynchronous Requests.</description>
+    </item>
+  </channel>
+</rss>

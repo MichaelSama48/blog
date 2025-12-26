@@ -1,0 +1,10 @@
+# Bỏ qua thư mục build (kết quả xuất ra web tĩnh)
+/public
+
+# Bỏ qua thư mục cache của Hugo
+/resources/_gen
+.hugo_build.lock
+
+# File hệ thống
+.DS_Store
+Thumbs.db

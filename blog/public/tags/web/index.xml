@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Web on Blog của Hoàng Anh</title>
+    <link>http://localhost:1313/tags/web/</link>
+    <description>Recent content in Web on Blog của Hoàng Anh</description>
+    <generator>Hugo -- 0.153.2</generator>
+    <language>vi-vn</language>
+    <lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JavaScript Cơ Bản: Nền Tảng Cho Web Developer (2024)</title>
+      <link>http://localhost:1313/posts/javascript-co-ban/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/javascript-co-ban/</guid>
+      <description>Khám phá JavaScript hiện đại: Var/Let/Const, kiểu dữ liệu động, Type Coercion và cơ chế Hoisting/Scope.</description>
+    </item>
+  </channel>
+</rss>

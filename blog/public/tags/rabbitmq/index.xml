@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>RabbitMQ on Blog của Hoàng Anh</title>
+    <link>http://localhost:1313/tags/rabbitmq/</link>
+    <description>Recent content in RabbitMQ on Blog của Hoàng Anh</description>
+    <generator>Hugo -- 0.153.2</generator>
+    <language>vi-vn</language>
+    <lastBuildDate>Mon, 15 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/rabbitmq/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lập trình mạng với Microservices và Hệ thống phân tán</title>
+      <link>http://localhost:1313/posts/post-6-microservices/</link>
+      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/post-6-microservices/</guid>
+      <description>Tại sao chia nhỏ lại tốt hơn? Đi sâu vào Service Discovery (Eureka), API Gateway, Circuit Breaker và giao tiếp bất đồng bộ qua Message Queue.</description>
+    </item>
+  </channel>
+</rss>

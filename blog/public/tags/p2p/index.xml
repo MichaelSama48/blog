@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>P2P on Blog của Hoàng Anh</title>
+    <link>http://localhost:1313/tags/p2p/</link>
+    <description>Recent content in P2P on Blog của Hoàng Anh</description>
+    <generator>Hugo -- 0.153.2</generator>
+    <language>vi-vn</language>
+    <lastBuildDate>Sat, 15 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/p2p/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WebRTC: Khi Browsers Nhìn Thấy Nhau (Không Cần Server)</title>
+      <link>http://localhost:1313/posts/js-webrtc/</link>
+      <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/js-webrtc/</guid>
+      <description>Làm thế nào Google Meet hay Zoom có thể truyền video mượt mà đến thế? Câu chuyện về kết nối Peer-to-Peer và hành trình đi tìm nhau giữa biển Internet mênh mông.</description>
+    </item>
+  </channel>
+</rss>

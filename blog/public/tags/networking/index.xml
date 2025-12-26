@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Networking on Blog của Hoàng Anh</title>
+    <link>http://localhost:1313/tags/networking/</link>
+    <description>Recent content in Networking on Blog của Hoàng Anh</description>
+    <generator>Hugo -- 0.153.2</generator>
+    <language>vi-vn</language>
+    <lastBuildDate>Fri, 26 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/networking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Java Networking: Mạng máy tính trong Java là gì?</title>
+      <link>http://localhost:1313/posts/post-9-java-networking-intro/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/post-9-java-networking-intro/</guid>
+      <description>Tổng quan về Networking trong Java. Khái niệm cơ bản về IP, Port, Protocol, và gói java.net. Nền tảng cho mọi ứng dụng phân tán.</description>
+    </item>
+  </channel>
+</rss>

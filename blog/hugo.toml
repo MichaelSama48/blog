@@ -1,0 +1,34 @@
+baseURL = 'https://username.github.io/' # Thay username bằng tên Github của bạn sau này
+languageCode = 'vi-vn'
+title = 'Blog của Hoàng Anh'
+theme = 'PaperMod'
+
+[params]
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  # Phần Profile ở trang chủ (Yêu cầu: Giới thiệu Profile cá nhân)
+  [params.profileMode]
+    enabled = true
+    title = "Nguyễn Võ Hoàng Anh"
+    subtitle = "Mình là Hoàng Anh sinh viên theo ngành hệ thống thông tin trường hutech"
+    description = ""
+    imageUrl = "https://cdn-icons-png.flaticon.com/512/3135/3135715.png" # Bạn có thể thay link ảnh avatar của bạn vào đây
+    imageTitle = "Avatar"
+    buttons = [
+      { name = "Github", url = "https://github.com/MichaelSama48" }
+    ]
+
+# Cấu trúc Menu (Yêu cầu: Home & Blog)
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 10
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/posts"
+    weight = 20

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>JavaScript on Blog của Hoàng Anh</title>
+    <link>https://username.github.io/categories/javascript/</link>
+    <description>Recent content in JavaScript on Blog của Hoàng Anh</description>
+    <generator>Hugo -- 0.153.2</generator>
+    <language>vi-vn</language>
+    <lastBuildDate>Wed, 12 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://username.github.io/categories/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DOM &amp; Virtual DOM: Cuộc Chiến Hiệu Năng Frontend</title>
+      <link>https://username.github.io/posts/javascript-dom/</link>
+      <pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://username.github.io/posts/javascript-dom/</guid>
+      <description>Tại sao React/Vue lại sinh ra Virtual DOM? Hiểu về Reflow và Repaint để tối ưu hóa tốc độ render trang web của bạn.</description>
+    </item>
+    <item>
+      <title>Javascript Asynchronous: Microtask, Macrotask và Event Loop</title>
+      <link>https://username.github.io/posts/javascript-async-await/</link>
+      <pubDate>Sat, 08 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://username.github.io/posts/javascript-async-await/</guid>
+      <description>Tại sao `setTimeout(0)` lại không chạy ngay lập tức? Phân tích sâu về hàng đợi tác vụ của trình duyệt để hiểu rõ thứ tự chạy code.</description>
+    </item>
+    <item>
+      <title>JavaScript ES6, ES7... ES14: Tính Năng Nào &#39;Must Know&#39;?</title>
+      <link>https://username.github.io/posts/javascript-es6/</link>
+      <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://username.github.io/posts/javascript-es6/</guid>
+      <description>Tổng hợp toàn bộ các tính năng Modern JS quan trọng nhất. Từ Arrow Function, Destructuring, Spread Operator cho đến Optional Chaining (?.).</description>
+    </item>
+    <item>
+      <title>JavaScript Under The Hood: V8 Engine, Call Stack và Hoisting</title>
+      <link>https://username.github.io/posts/javascript-co-ban/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://username.github.io/posts/javascript-co-ban/</guid>
+      <description>Vượt qua kiến thức bề nổi. Bài viết này giải thích cách JS thực thi code, tại sao nó lại đơn luồng, và cơ chế Garbage Collection hoạt động ra sao.</description>
+    </item>
+  </channel>
+</rss>

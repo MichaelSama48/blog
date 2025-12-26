@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Java on Blog của Hoàng Anh</title>
+    <link>http://localhost:1313/tags/java/</link>
+    <description>Recent content in Java on Blog của Hoàng Anh</description>
+    <generator>Hugo -- 0.153.2</generator>
+    <language>vi-vn</language>
+    <lastBuildDate>Fri, 26 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Java Networking: Mạng máy tính trong Java là gì?</title>
+      <link>http://localhost:1313/posts/post-9-java-networking-intro/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/post-9-java-networking-intro/</guid>
+      <description>Tổng quan về Networking trong Java. Khái niệm cơ bản về IP, Port, Protocol, và gói java.net. Nền tảng cho mọi ứng dụng phân tán.</description>
+    </item>
+    <item>
+      <title>Lập trình mạng với API bên thứ ba </title>
+      <link>http://localhost:1313/posts/post-7-3rd-party-api/</link>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/post-7-3rd-party-api/</guid>
+      <description>Chiến lược tích hợp API: Retry với Exponential Backoff, Rate Limiting, xác thực API Key/Bearer, và xử lý lỗi khi &amp;#39;đứng trên vai người khổng lồ&amp;#39;.</description>
+    </item>
+    <item>
+      <title>Lập trình Socket TCP/UDP - Nền tảng cốt lõi của kết nối mạng</title>
+      <link>http://localhost:1313/posts/post-1-tcp-udp-socket/</link>
+      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/post-1-tcp-udp-socket/</guid>
+      <description>Khám phá tầng giao vận (Transport Layer) với TCP/UDP. Phân tích sâu kiến trúc, bắt tay 3 bước, và hướng dẫn code Socket Server/Client chi tiết bằng Java &amp;amp; Node.js.</description>
+    </item>
+    <item>
+      <title>WebSocket - Giao tiếp thời gian thực</title>
+      <link>http://localhost:1313/posts/post-4-websocket/</link>
+      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/post-4-websocket/</guid>
+      <description>Phân tích sâu giao thức WebSocket Handshake. Chiến lược Scaling WebSocket với Redis Pub/Sub. Các bài toán thực tế: Chat, Notification, Live Tracking.</description>
+    </item>
+    <item>
+      <title>Xây dựng Web Server - Từ Java Servlet đến Node.js Express</title>
+      <link>http://localhost:1313/posts/post-2-web-server-client/</link>
+      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/post-2-web-server-client/</guid>
+      <description>Hiểu sâu về HTTP Request-Response. Cách dựng Web Server thủ công với Servlet và hiện đại với Spring Boot / Express.js.</description>
+    </item>
+  </channel>
+</rss>
