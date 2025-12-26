@@ -3,7 +3,7 @@ title: "RESTful API - Ngôn ngữ chung của Internet"
 date: 2025-12-15
 description: "Đi sâu vào HATEOAS, Mô hình trưởng thành Richardson, Tính Idempotency của HTTP và cách xử lý lỗi chuẩn trong Spring Boot vs Express."
 cover:
-    image: "/images/p3.jpg"
+    image: "/blog/images/p3.jpg"
     alt: "REST API Design Diagram"
     caption: "API là cây cầu kết nối các hệ thống độc lập."
 tags: ["REST", "API", "JSON", "Spring", "Express", "Deep Dive"]

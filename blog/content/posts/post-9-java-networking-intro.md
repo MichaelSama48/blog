@@ -3,7 +3,7 @@ title: "Java Networking: Mạng máy tính trong Java là gì?"
 date: 2025-12-26
 description: "Tổng quan về Networking trong Java. Khái niệm cơ bản về IP, Port, Protocol, và gói java.net. Nền tảng cho mọi ứng dụng phân tán."
 cover:
-    image: "/images/p9.jpg"
+    image: "/blog/images/p9.jpg"
     alt: "Java Networking Concepts"
     caption: "Mô hình mạng trong Java."
 tags: ["Java", "Networking", "Theory", "Basic"]
