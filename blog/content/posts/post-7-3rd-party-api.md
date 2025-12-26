@@ -3,7 +3,7 @@ title: "Lập trình mạng với API bên thứ ba "
 date: 2025-12-26
 description: "Chiến lược tích hợp API: Retry với Exponential Backoff, Rate Limiting, xác thực API Key/Bearer, và xử lý lỗi khi 'đứng trên vai người khổng lồ'."
 cover:
-    image: "/blog/images/p7.jpg"
+    image: "/images/p7.jpg"
     alt: "API Integration Diagram"
     caption: "Tích hợp thế giới vào ứng dụng của bạn."
 tags: ["API", "Integration", "Java", "JavaScript", "HttpClient", "Axios", "Deep Dive"]
