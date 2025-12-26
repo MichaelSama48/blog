@@ -3,7 +3,7 @@ title: "Lập trình Socket TCP/UDP - Nền tảng cốt lõi của kết nối 
 date: 2025-12-15
 description: "Khám phá tầng giao vận (Transport Layer) với TCP/UDP. Phân tích sâu kiến trúc, bắt tay 3 bước, và hướng dẫn code Socket Server/Client chi tiết bằng Java & Node.js."
 cover:
-    image: "/images/p1.jpg"
+    image: "images/p1.jpg"
     alt: "Network Socket Connection Diagram"
     caption: "Socket được ví như bến cảng nơi dữ liệu ra khơi."
 tags: ["Java", "Node.js", "TCP", "UDP", "Socket", "Deep Dive"]

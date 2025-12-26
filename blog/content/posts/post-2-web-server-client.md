@@ -3,7 +3,7 @@ title: "Xây dựng Web Server - Từ Java Servlet đến Node.js Express"
 date: 2025-12-15
 description: "Hiểu sâu về HTTP Request-Response. Cách dựng Web Server thủ công với Servlet và hiện đại với Spring Boot / Express.js."
 cover:
-    image: "/images/p2.jpg"
+    image: "images/p2.jpg"
     alt: "Web Server Architecture"
     caption: "Spring Boot và Node.js: Hai thế lực Web Server."
 tags: ["Java", "Spring Boot", "Node.js", "Express", "Servlet"]

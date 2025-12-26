@@ -3,7 +3,7 @@ title: "Lập trình mạng không đồng bộ "
 date: 2025-12-26
 description: "So sánh chi tiết Java Memory Model (Multithreading) và Node.js Event Loop. Cách sử dụng CompletableFuture và Promise/Async/Await hiệu quả."
 cover:
-    image: "/images/p8.jpg"
+    image: "images/p8.jpg"
     alt: "Async Processing Diagram"
     caption: "Bất đồng bộ giúp CPU không bao giờ phải chờ đợi."
 tags: ["Async", "Multithreading", "Event Loop", "Promise", "CompletableFuture", "Deep Dive"]

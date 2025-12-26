@@ -3,7 +3,7 @@ title: "WebSocket - Giao tiếp thời gian thực"
 date: 2025-12-15
 description: "Phân tích sâu giao thức WebSocket Handshake. Chiến lược Scaling WebSocket với Redis Pub/Sub. Các bài toán thực tế: Chat, Notification, Live Tracking."
 cover:
-    image: "/images/p4.jpg"
+    image: "images/p4.jpg"
     alt: "Real-time WebSocket Connection Diagram"
     caption: "WebSocket duy trì kết nối bền vững hai chiều (Full-duplex)."
 tags: ["WebSocket", "Real-time", "Node.js", "Java", "Socket.io", "Deep Dive"]

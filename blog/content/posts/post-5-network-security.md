@@ -3,7 +3,7 @@ title: "Bảo mật trong lập trình mạng "
 date: 2025-12-15
 description: "Phân tích sâu cơ chế bắt tay SSL/TLS, giải phẫu cấu trúc JWT và các lỗ hổng, luồng hoạt động chuẩn của OAuth 2.0. Demo bảo mật với Spring Security và Node.js."
 cover:
-    image: "/images/p5.jpg"
+    image: "images/p5.jpg"
     alt: "Network Security Architecture"
     caption: "Bảo mật nhiều lớp: Từ đường truyền đến ứng dụng."
 tags: ["Security", "JWT", "OAuth2", "Spring Security", "Node.js", "HTTPS", "Deep Dive"]

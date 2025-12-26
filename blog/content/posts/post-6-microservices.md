@@ -3,7 +3,7 @@ title: "Lập trình mạng với Microservices và Hệ thống phân tán"
 date: 2025-12-15
 description: "Tại sao chia nhỏ lại tốt hơn? Đi sâu vào Service Discovery (Eureka), API Gateway, Circuit Breaker và giao tiếp bất đồng bộ qua Message Queue."
 cover:
-    image: "/images/p6.jpg"
+    image: "images/p6.jpg"
     alt: "Microservices Ecosystem"
     caption: "Hệ sinh thái Microservices phức tạp nhưng mạnh mẽ."
 tags: ["Microservices", "Spring Cloud", "Node.js", "RabbitMQ", "Architecture", "Deep Dive"]
