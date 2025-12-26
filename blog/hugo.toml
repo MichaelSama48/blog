@@ -1,4 +1,4 @@
-baseURL = 'https://username.github.io/' # Thay username bằng tên Github của bạn sau này
+baseURL = '/'
 languageCode = 'vi-vn'
 title = 'Blog của Hoàng Anh'
 theme = 'PaperMod'
