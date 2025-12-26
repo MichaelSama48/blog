@@ -2,7 +2,7 @@ baseURL = 'https://MichaelSama48.github.io/blog/'
 languageCode = 'vi-vn'
 title = 'Blog của Hoàng Anh'
 theme = 'PaperMod'
-relativeURLs = true
+canonifyURLs = true
 
 [params]
   defaultTheme = "auto"
