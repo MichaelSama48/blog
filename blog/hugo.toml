@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://MichaelSama48.github.io/blog/'
 languageCode = 'vi-vn'
 title = 'Blog của Hoàng Anh'
 theme = 'PaperMod'
